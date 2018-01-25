@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : SampleAfternoon.cpp
+// Name        : Controller.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice

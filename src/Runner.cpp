@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : SampleAfternoon.cpp
+// Name        : Runner.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
