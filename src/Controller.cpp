@@ -43,7 +43,7 @@ void Controller :: start()
 
 	for (double count : numbersOfDouble)
 	{
-		cout << "Decimals are weird looking." << count << endl;
+		cout << "Decimals are weird looking." << " " << count << endl;
 	}
 
 	for (string count : names)
