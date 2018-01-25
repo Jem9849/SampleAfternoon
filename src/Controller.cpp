@@ -18,9 +18,19 @@ Controller :: Controller()
 
 void Controller :: start()
 {
-	for (int index = 0; index < 10; index++)
+	string name = "Jeremy Saysanasy";
+	string * nameptr = &name;
+
+	for (int index = 0; index <= 4; index++)
 	{
-		cout << "This is the " << index + 1 << " time in the loop." << endl;
+		cout << "My name is " << name << endl;
+
+		cout << nameptr << endl;
+	}
+
+	for (int index = 13; index <= 31; index++)
+	{
+		cout << index << endl;
 	}
 
 }
